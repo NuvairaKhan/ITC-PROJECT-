@@ -1,0 +1,5 @@
+===== Class Timetable =====
+Course: ARS201 - ITC | Instructor: Mohsin | Day: Monday | Time: 12:00 AM | Room: 201
+
+===== Exam Schedule =====
+Course Code: ARS201 | Date: 24/07/2026 | Time: 12:00 AM - 1:30 AM | Hall: 201
